@@ -7,6 +7,9 @@
     "email": "luqkinhaas@gmail.com"
   },
   "license": "MIT",
+  "keywords": [
+    "heroku"
+  ],
   "scripts": {
     "dev": "ts-node-dev -r tsconfig-paths/register --exit-child src/server.ts",
     "start": "node dist/server.js",
