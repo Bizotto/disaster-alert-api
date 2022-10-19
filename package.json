@@ -8,7 +8,9 @@
   },
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev -r tsconfig-paths/register --exit-child src/server.ts"
+    "dev": "ts-node-dev -r tsconfig-paths/register --exit-child src/server.ts",
+    "start": "node dist/server.js",
+    "postinstall": "babel src --extensions \".js,.ts\" --out-dir dist --copy-files"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.10",
