@@ -11,7 +11,6 @@ const PORT = process.env.PORT || 3000;
 const app = express();
 const http = createServer(app);
 const socketIO = new Server(http);
-
 app.use(
   cors({
     origin: '*',
