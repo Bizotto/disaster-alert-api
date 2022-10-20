@@ -1,5 +1,6 @@
 <div align="center">
-  <img src='https://user-images.githubusercontent.com/65921350/192524184-3b43f959-db2b-46b0-9507-f29c85a0f285.gif' alt="" width="100" >
+  <img src='https://user-images.githubusercontent.com/65921350/196827958-55a6a4c7-7a41-4ba0-9183-ebe7dccef09d.png' alt="" width="100" >
+
   <br>
   <h1>Disaster Alert</h1>
 </div>
