@@ -41,4 +41,4 @@ yarn dev
 
 ### Nome dos participantes
 
-Made with ♥ by Nicolas & Carlos :wave:
+Made with ♥ by [Nicolas](https://www.linkedin.com/in/nicolas-bizotto/) & [Carlos](https://www.linkedin.com/in/carlos-henrique-agostinho-berkenbrock-33875516a/) :wave:
