@@ -41,5 +41,4 @@ yarn dev
 
 ### Nome dos participantes
 
-Made with ♥ by Lucas Aguiar :wave:
-[Get in touch!](https://www.linkedin.com/in/lucasaguiiar)
+Made with ♥ by Nicolas & Carlos :wave:
